@@ -2,6 +2,7 @@ import requests
 
 
 server_name = "http://127.0.0.1:5000"
+# server_name = "http://vcm-13952.vm.duke.edu:5000"
 
 
 def add_some_patients():
